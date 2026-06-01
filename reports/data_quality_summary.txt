@@ -1,0 +1,11 @@
+DAY 1 DATA QUALITY SUMMARY
+
+- Loaded all 10 CSV datasets successfully.
+- Verified dataset shapes and datatypes.
+- Checked missing values.
+- AMFI code validation completed.
+- All AMFI codes from fund_master exist in nav_history.
+- SIP trend shows upward growth.
+- SBI Mutual Fund has highest AUM.
+- Liquid category has highest inflows.
+- ABSL Small Cap Fund showed highest 1-year return.
